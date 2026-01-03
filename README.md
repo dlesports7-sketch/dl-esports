@@ -5,7 +5,7 @@ Official repository for DL Esports team projects, tournaments, and resources.
 Welcome to the official DL Esports repository.
 
 ## About Us
-DL Esports is a competitive gaming organization focused on esports tournaments,
+DL Esports is a competitive gaming organization focused on esporttournaments.s,
 team management, and digital gaming content.
 
 ## What This Repository Contains
@@ -20,4 +20,6 @@ team management, and digital gaming content.
 - More coming soon
 
 ## Contact
-For collaborations and tournaments, connect with DL Esports. 
+For collaborations and tournaments, connect with DL Esports.
+## Contact Instagram Handledle
+Insta DL`E-ESPORTS, yt AIMBOT HACRR  

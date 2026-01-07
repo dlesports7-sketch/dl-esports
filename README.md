@@ -1,25 +1,42 @@
-# dl-esports
-Official repository for DL Esports team projects, tournaments, and resources.
-# DL Esports
+ # 🎮 DL Esports
 
-Welcome to the official DL Esports repository.
+**Official repository for DL Esports projects, tournaments, and esports resources.**
 
-## About Us
-DL Esports is a competitive gaming organization focused on esporttournaments.s,
-team management, and digital gaming content.
+Welcome to the home of **DL Esports** — a competitive gaming organization built on skill, teamwork, and community growth.
 
-## What This Repository Contains
-- Team and player information
-- Tournament data and results
-- Website or app source code
-- Esports-related resources
+---
 
-## Games
-- Free Fire
-- Free Fire MAX
-- More coming soon
+## 🏆 About Us
+**DL Esports** is a competitive esports organization focused on:
+- Professional esports tournaments  
+- Team and player management  
+- Competitive gaming content and community building  
 
-## Contact
-For collaborations and tournaments, connect with DL Esports.
-## Contact Instagram Handledle
-Insta DL`E-ESPORTS, yt AIMBOT HACRR  
+---
+
+## 📂 What This Repository Contains
+- Team and player information  
+- Tournament formats, data, and results  
+- Website or application source code  
+- Esports-related documentation and resources  
+
+---
+
+## 🎮 Games We Play
+- Free Fire  
+- Free Fire MAX  
+- More games coming soon  
+
+---
+
+## 🤝 Collaborations & Contact
+For collaborations, tournaments, or partnerships, connect with **DL Esports** through our official channels.
+
+### 🔗 Official Links
+- 📸 **Instagram:** [Divine X Light](https://www.instagram.com/divine_____x_____light?igsh=YW1kank4eXNyMTZj)
+- ▶️ **YouTube:** [AIMBOT HACRR](https://youtube.com/@aimbothacrr-444?si=SoY6VqaqmljDwgXy)
+
+---
+
+🔥 **Play Fair. Compete Hard. Win Together.**  
+🏆 **DL Esports**
